@@ -59,5 +59,7 @@
         <framework src="CoreData.framework" />
         <framework src="SystemConfiguration.framework" />
         <framework src="AdSupport.framework" />
+        <framework src="libz.dylib" />
+        <framework src="libsqlite3.0.dylib" />
     </platform>
 </plugin>
